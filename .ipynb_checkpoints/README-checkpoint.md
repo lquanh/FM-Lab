@@ -1,1 +1,0 @@
-"#Foundation Model Laboratory - BKAI" 
